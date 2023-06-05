@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="co.edu.proyectoIntegrador1.ATRR.Comenzar">
+  <grid id="27dc6" binding="Comenzar" layout-manager="GridLayoutManager" row-count="3" column-count="1" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+    <margin top="0" left="0" bottom="0" right="0"/>
+    <constraints>
+      <xy x="20" y="20" width="504" height="559"/>
+    </constraints>
+    <properties>
+      <background color="-2824705"/>
+    </properties>
+    <border type="none"/>
+    <children>
+      <component id="a5c0a" class="javax.swing.JButton" binding="comenzarButton" default-binding="true">
+        <constraints>
+          <grid row="1" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <autoscrolls value="false"/>
+          <background color="-16173508"/>
+          <foreground color="-2824705"/>
+          <hideActionText value="false"/>
+          <horizontalTextPosition value="0"/>
+          <inheritsPopupMenu value="false"/>
+          <margin top="10" left="10" bottom="10" right="10"/>
+          <text value="Comenzar"/>
+          <verticalAlignment value="0"/>
+          <verticalTextPosition value="0"/>
+        </properties>
+        <clientProperties>
+          <hideActionText class="java.lang.Boolean" value="false"/>
+        </clientProperties>
+      </component>
+      <component id="a8d81" class="javax.swing.JLabel" binding="imagenLabel">
+        <constraints>
+          <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <horizontalAlignment value="0"/>
+          <horizontalTextPosition value="0"/>
+          <icon value="co/edu/proyectoIntegrador1/ATRR/imagen/ATRR__3_-removebg-preview.png"/>
+          <text value=""/>
+        </properties>
+      </component>
+      <vspacer id="e768d">
+        <constraints>
+          <grid row="2" column="0" row-span="1" col-span="1" vsize-policy="6" hsize-policy="1" anchor="0" fill="2" indent="0" use-parent-layout="false"/>
+        </constraints>
+      </vspacer>
+    </children>
+  </grid>
+</form>

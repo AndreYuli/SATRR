@@ -1,0 +1,2 @@
+Andrea,Lopez,22,Dolor en el pecho,30 de mayo,Dr. Zapata,En tratamiento
+Daniela,calle,23,corazon,30 de mayo,Dr. Poche,Recien en consulta

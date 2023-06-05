@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="co.edu.proyectoIntegrador1.ATRR.Menu">
+  <grid id="27dc6" binding="panel1" default-binding="true" layout-manager="GridLayoutManager" row-count="6" column-count="1" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+    <margin top="5" left="5" bottom="5" right="5"/>
+    <constraints>
+      <xy x="20" y="20" width="500" height="400"/>
+    </constraints>
+    <properties>
+      <background color="-2824705"/>
+      <foreground color="-16173508"/>
+      <preferredSize width="300" height="200"/>
+    </properties>
+    <border type="none" title-justification="2" title-position="2"/>
+    <children>
+      <component id="46f55" class="javax.swing.JButton" binding="iniciarSeciónButton" default-binding="true">
+        <constraints>
+          <grid row="1" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-16173508"/>
+          <foreground color="-1"/>
+          <horizontalTextPosition value="0"/>
+          <text value="Iniciar seción"/>
+        </properties>
+      </component>
+      <component id="67976" class="javax.swing.JButton" binding="registrarseButton" default-binding="true">
+        <constraints>
+          <grid row="2" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-16173508"/>
+          <foreground color="-1"/>
+          <horizontalTextPosition value="0"/>
+          <text value="Registrarse"/>
+        </properties>
+      </component>
+      <component id="623b3" class="javax.swing.JButton" binding="volverButton" default-binding="true">
+        <constraints>
+          <grid row="4" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-16173508"/>
+          <foreground color="-2824705"/>
+          <horizontalTextPosition value="0"/>
+          <text value="&lt;&lt;"/>
+        </properties>
+      </component>
+      <vspacer id="bc42b">
+        <constraints>
+          <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="6" hsize-policy="1" anchor="0" fill="2" indent="0" use-parent-layout="false"/>
+        </constraints>
+      </vspacer>
+      <vspacer id="f59b8">
+        <constraints>
+          <grid row="5" column="0" row-span="1" col-span="1" vsize-policy="6" hsize-policy="1" anchor="0" fill="2" indent="0" use-parent-layout="false"/>
+        </constraints>
+      </vspacer>
+      <vspacer id="b7b5c">
+        <constraints>
+          <grid row="3" column="0" row-span="1" col-span="1" vsize-policy="6" hsize-policy="1" anchor="0" fill="2" indent="0" use-parent-layout="false"/>
+        </constraints>
+      </vspacer>
+    </children>
+  </grid>
+</form>

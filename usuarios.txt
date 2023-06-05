@@ -1,0 +1,8 @@
+andrea:1234:andrea@unac
+juan:putito1:juan@putito
+::
+AndreaYuliana:12345:lopez@gmail.com
+juan1:1234:juan@gmail.com
+andrea12:1234:
+Luis:1234:
+lucas:1234:
